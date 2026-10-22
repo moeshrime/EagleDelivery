@@ -1,0 +1,2 @@
+map,task,bfs_length,astar_length,bfs_expanded,astar_expanded
+my_campus.txt,S-W,26,26,61,34
